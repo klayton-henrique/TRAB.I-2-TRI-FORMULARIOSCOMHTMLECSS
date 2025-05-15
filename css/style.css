@@ -24,7 +24,7 @@ form {
 fieldset {
     border: 2px solid #007BFF;
     border-radius: 5px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 legend {
@@ -32,7 +32,7 @@ legend {
 }
 
 label {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 input, select {
