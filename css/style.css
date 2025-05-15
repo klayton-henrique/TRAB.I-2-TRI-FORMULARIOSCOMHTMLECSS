@@ -16,3 +16,6 @@ body{
     display: flex;
     flex-direction: column;
     }
+    header{
+         border-radius: 2px solid var(--text-color);
+    }
